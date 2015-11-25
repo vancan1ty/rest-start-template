@@ -1,0 +1,1 @@
+excludePatterns=Makefile,archetypePFile.txt,target,REAL_README.md,rest-start-template.iml
